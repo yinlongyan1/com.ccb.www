@@ -1,0 +1,36 @@
+/* 1.顶部导航  */
+.daohlj {
+    height: 76px;
+    background-color: blue;
+}
+
+.daohlj span {
+    color: #95e5ff;
+    line-height: 76px;
+}
+.daohlj a {
+    color: #95e5ff;
+}
+
+.dbdhzb {
+    float: left;
+}
+
+.dbdhyb {
+    float: right;
+}
+
+
+
+
+/* 第二部分 */
+/* 建设银行 */
+.jsyhlj {
+height: 123px;
+
+}
+
+
+.jsyhlj span {
+    line-height: 123px;
+}

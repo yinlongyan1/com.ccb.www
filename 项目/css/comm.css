@@ -1,1 +1,7 @@
 /* 版心 */
+.banx {
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+
+}
