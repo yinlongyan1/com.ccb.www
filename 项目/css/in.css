@@ -93,7 +93,7 @@
 /* 开卡栏 */
 .kaikalan {
     height: 270px;
-background-color: #ffffff;
+    background-color: #ffffff;
 }
 
 .kkl {
@@ -104,11 +104,11 @@ background-color: #ffffff;
 .kaikal {
     height: 155px;
     width: 350px;
- 
+
     float: left;
     margin: 58px 5px;
-text-align: center;
-line-height: 155px;
+    text-align: center;
+    line-height: 155px;
 }
 
 
@@ -127,7 +127,7 @@ line-height: 155px;
 
 .kkls .kkly {
     height: 65px;
-    width:186px;
+    width: 186px;
     float: left;
     line-height: 21px;
 }
@@ -185,7 +185,7 @@ line-height: 155px;
 
 /* 办卡左边 */
 .bankaljzb {
-    height:544px;
+    height: 544px;
     width: 886px;
     float: left;
 }
@@ -230,16 +230,16 @@ line-height: 155px;
 .bankazbxb img {
     height: 314px;
     width: 423px;
-    margin:0px ;
+    margin: 0px;
 }
 
 
 /* 办卡右边 */
-.bankaljyb  img {
+.bankaljyb img {
     float: right;
-    height:544px;
+    height: 544px;
     width: 556px;
-   
+
 }
 
 
@@ -248,15 +248,335 @@ line-height: 155px;
 
 .grkhlj {
     height: 149px;
-    background-color:#efefef ;
+    background-color: #efefef;
+}
+
+.grkhlj img {
+    float: left;
+    height: 86px;
+    width: 103px;
+    margin: 20px 0px;
+}
+
+.grkhlj span {
+    font-size: 10px;
+}
+
+.grkhlj .grkhulj {
+    float: left;
+    height: 149px;
+    width: 423px;
+    line-height: 20px;
+    margin: 0px 11px;
+}
+
+.grkhlj .grkhulj span {
+    font-size: 20px;
+    line-height: 149px;
+    margin: 0px 25px;
 }
 
 
 
 
+/* 第八部分 */
+/* 悦享生活 */
+/* 悦享生活导航 */
+
+.yxshh {
+    height: 700px;
+}
+
+.yxshhdaoh {
+    height: 184px;
+    line-height: 184px;
+}
+
+.yxshhdaoh .aa {
+    /* line-height: 184px; */
+    margin: 67px 0;
+}
+
+/* 悦享生活链接 */
+
+
+.yxahhlj .tp img {
+    height: 510px;
+    width: 760px;
+    float: left;
+}
+
+.yxshhuolj {
+    float: left;
+    height: 84px;
+    width: 507px;
+    margin: 35px 0;
+}
+
+.yxshhuolj .yx {
+    float: left;
+}
+
+.yxshhuolj .lj {
+    float: left;
+    font-size: 20px;
+}
+
+.yxshhuolj .lj .iconfont {
+
+    font-size: 20px;
+}
+
+
+/* 第九部分 */
+/* 划算 */
+
+.huas {
+    height: 149px;
+    background-color: #efefef;
+}
 
 
 
+.huaslj img {
+    float: left;
+    height: 88px;
+    width: 106px;
+    margin: 20px 0px;
+}
+
+
+
+
+.huasuanlj {
+    float: left;
+    width: 370px;
+    height: 148px;
+    margin: 0px 10px;
+}
+
+.huaslj .hslj {
+    float: left;
+    margin: 30px;
+}
+
+
+.huasuanlj .hslj p {
+    margin: 3px 0;
+    font-size: 19px;
+}
+
+
+
+
+/* 优智规划 */
+/* 优智规划栏 */
+.yzghlan {
+    height: 203px;
+    line-height: 203px;
+}
+
+.yzghlan .aa {
+    margin: 74px 0;
+}
+
+/* 优智规划链接 */
+.yzghlj {
+    height: 460px;
+
+}
+
+.yzghlj .xqck {
+    height: 47px;
+    width: 184px;
+    background-color: #0066b3;
+    margin: 30px 63px;
+    text-align: center;
+    line-height: 47px;
+    font-size: 20px;
+
+}
+
+.yzghlj span {
+    font: size 40px;
+    margin: 10px 0;
+}
+
+.yzghlj p {
+    font-size: 21px;
+    margin: 30px 0;
+}
+
+/* 左边 */
+.yzghljzb {
+
+    height: 460px;
+    width: 300px;
+    float: left;
+}
+
+
+/* 中间 */
+.yzghljzj {
+    float: left;
+    height: 460px;
+    /* width: 382px; */
+}
+
+.yzghljzj img {
+    width: 412px;
+    height: 460px;
+}
+
+/* 右边 */
+
+.yzghljyb {
+
+    height: 460px;
+    width: 300px;
+    float: left;
+
+}
+
+/* 优智规划底部链接 */
+
+.yzghljdb {
+    height: 159px;
+    text-align: center;
+    line-height: 159px;
+}
+
+
+.yzghljdb a {
+    font-size: 49px;
+    color: #ff9900;
+}
+
+
+
+/* 第十一部分 */
+/* 理财频道 */
+.lcpd {
+    height: 225px;
+}
+
+/* .lcpdlj {
+    text-align: center;
+    line-height: 17px;
+    margin: 20px 0;
+} */
+.lcpdaolj {
+    height: 222px;
+    width: 764px;
+    text-align: center;
+    margin: 0px 345px;
+    font-size: 24px;
+}
+
+
+
+
+.lcpdlj h2 {
+    margin: 0px 10px;
+
+}
+
+.lcpdlj p {
+    color: #999999;
+}
+
+
+/* 第十二部分 */
+/* 最新公告 */
+.zxgg {
+    height: 417px;
+    background-color: #eeeeee;
+}
+
+/* 最新公告栏 */
+.zxgglan {
+    height: 123px;
+    line-height: 123px;
+    font-size: 34px;
+    margin: 10px 0;
+
+}
+
+/* 最新公告介绍 */
+
+.zxgglanjs {
+    height: 287px;
+
+}
+.zxggjs {
+    width: 100%;
+    height: 299px;
+}
+
+
+.rq .aa {
+    height: 55px;
+    width: 55px;
+    background-color: red;
+}
+
+
+.zxggjs .bb {
+    height: 55px;
+    width: 71px;
+    float: left;
+}
+
+
+
+
+.zxggjs .rq1 span {
+    font-size: 31px;
+}
+
+
+
+.zxggjs .nr {
+    float: left;
+    height: 299px;
+    width: 338px;
+    font-size: 18px;
+line-height: 18px;
+}
+
+.zxggjs .nr p {
+    color: #667bac;
+}
+
+
+
+/* 第十二部分 */
+/* 网站 */
+.wangzhan {
+    height: 75px;
+    background-color: #025a9d;
+}
+
+.wztp img{
+    height: 50px;
+    width: 141px;
+    float: left;
+    /* margin: 0px 7px ; */
+}
+
+.wztp .pp img  {
+margin: 0 10px;
+}
+
+
+
+  .wangzhanlj  a {
+    color: #1dcfd0;
+    margin: 20px 6px ;
+    font-size: 24px;
+    line-height: 55px;
+}
+ 
 
 
 
