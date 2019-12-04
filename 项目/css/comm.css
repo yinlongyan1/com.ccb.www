@@ -1,7 +1,21 @@
 /* 版心 */
-.banx {
+.layout {
     position: relative;
     margin: 0 auto;
     width: 1442px;
 
+}
+
+/* 清除浮动 */
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  /* 既让伪元素变成块级 还让他们排在一行 */
+  display: table;
+}
+
+
+
+.clearfix:after {
+  clear: both;
 }

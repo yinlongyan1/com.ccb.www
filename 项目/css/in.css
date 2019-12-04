@@ -1,60 +1,55 @@
 /* 1.顶部导航  */
 
-.dinbudaoh {
+.top-navigation {
     height: 76px;
     background-color: blue;
 }
 
 
-/* 
-.daohlj {
-    height: 76px;
-    background-color: blue;
-} */
 
 .dbdhzb .iconfont {
     color: #95e5ff;
 }
 
-.daohlj a {
+.top-navigation-link a {
     color: #95e5ff;
     line-height: 76px;
     font-size: 20px;
     margin: 0px 9px;
 }
 
-.daohlj i {
+.top-navigation-link i {
     color: #95e5ff;
     font-size: 20px;
 }
 
-.dbdhzb {
+.top-navigation-link-left {
     float: left;
 }
 
-.dbdhyb {
+.top-navigation-link-right {
     float: right;
 }
 
-.dbdhyb .iconfont {
+.top-navigation-link .iconfont {
     color: #95e5ff;
 }
 
 
 /* 第二部分 */
 /* 建设银行 */
-.jsyhlj {
+.economic-construction-lj {
     height: 123px;
 
 }
 
 /* 图片 */
-.jsyhlj .tp {
+.economic-construction-lj .tp {
     float: left;
 }
 
 /* 图片 */
-.jsyhlj .tp img {
+.economic-construction-lj .tp img {
     height: 61px;
     width: 300px;
     margin: 10px 20px;
@@ -65,20 +60,26 @@
     float: left;
     line-height: 123px;
     height: 20px;
-    width: 30px;
+    width: 149px;
 }
 
-.ssdz1 input {
+.ssdz span {
+    margin: 30px 0px;
+}
+
+
+
+.ssdz input {
     height: 10px;
     width: 10px;
 }
 
 /* 字体链接 */
-.jsyhlj1 {
+.economic-construction-lj1 {
     float: left;
 }
 
-.jsyhlj span {
+.economic-construction-lj span {
     line-height: 123px;
     font-size: 20px;
     margin: 0px 20px;
@@ -87,83 +88,121 @@
 
 /* 第三部分 */
 /* 轮播图 */
+.bb {
+
+    right: 387px;
+    bottom: 26px;
+    position: absolute;
+}
+
+.bb li {
+    float: left;
+    width: 148px;
+    height: 8px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    /* border-radius: 50%; */
+    margin: 0 3px;
+}
+
 
 /* 第四部分 */
 
 /* 开卡栏 */
-.kaikalan {
+.activate-a-bank-card {
     height: 270px;
     background-color: #ffffff;
+
 }
 
-.kkl {
+.activate-a-bank-card {
     height: 270px;
 
 }
 
-.kaikal {
+.activate-a-bank-card1 {
     height: 155px;
-    width: 350px;
-
     float: left;
     margin: 58px 5px;
-    text-align: center;
-    line-height: 155px;
 }
 
 
-.kkls {
+.activate-a-bank-card-s {
     height: 107px;
     width: 350px;
     line-height: 107px;
 }
 
-.kkls .kklz {
+.activate-a-bank-card-s .activate-a-bank-card-z {
     height: 51px;
     width: 51px;
     float: left;
     line-height: 51px;
+
 }
 
-.kkls .kkly {
+.activate-a-bank-card-s .activate-a-bank-card-y {
     height: 65px;
     width: 186px;
     float: left;
     line-height: 21px;
+    margin: 20px 19px;
+}
+
+.activate-a-bank-card-z img {
+    width: 77px;
+    height: 77px;
+    /* margin:0px -12px; */
 }
 
 
-.kklx {
+.activate-a-bank-card-y span {
+    font-size: 27px;
+    margin: 0 10px;
+}
+
+.activate-a-bank-card-y p {
+    font-size: 18px;
+
+}
+
+
+
+
+
+.activate-a-bank-card-x {
     width: 350px;
     height: 48px;
     background-color: #e9e9e9;
     text-align: center;
     font-size: 25px;
     line-height: 48px;
+    border-radius: 11px;
 }
 
-.kklx a {
+.activate-a-bank-card-x a {
     margin: 4px 0;
+
 
 }
 
 
 /* 第五部分 */
 /* 快易金融 */
-.kyjr {
-    height: 145px;
+.fast-easy-finance {
+    height: 112px;
 
 }
 
 
-.kyjr .aa {
+.fast-easy-finance .aa {
     height: 50px;
     width: 17px;
     background-color: #c1c1c1;
     float: left;
 }
 
-.kyjr span {
+.fast-easy-finance span {
     font-size: 47px;
 }
 
@@ -208,7 +247,7 @@
 
 .bankaljsb p {
     margin: 17px 0;
-    color: #666697;
+    color: #666666;
 }
 
 .bankaljsb .iconfont {
@@ -246,23 +285,23 @@
 /* 第七部分 */
 /* 个人客户 */
 
-.grkhlj {
+.Individual-customerslj {
     height: 149px;
     background-color: #efefef;
 }
 
-.grkhlj img {
+.Individual-customerslj img {
     float: left;
-    height: 86px;
-    width: 103px;
+    height: 109px;
+    width: 107px;
     margin: 20px 0px;
 }
 
-.grkhlj span {
+.Individual-customerslj span {
     font-size: 10px;
 }
 
-.grkhlj .grkhulj {
+.Individual-customerslj .Individual-customersulj {
     float: left;
     height: 149px;
     width: 423px;
@@ -270,7 +309,7 @@
     margin: 0px 11px;
 }
 
-.grkhlj .grkhulj span {
+.Individual-customerslj .Individual-customersulj span {
     font-size: 20px;
     line-height: 149px;
     margin: 0px 25px;
@@ -283,16 +322,16 @@
 /* 悦享生活 */
 /* 悦享生活导航 */
 
-.yxshh {
+.enjoy-life {
     height: 700px;
 }
 
-.yxshhdaoh {
+.enjoy-life-daoh {
     height: 184px;
     line-height: 184px;
 }
 
-.yxshhdaoh .aa {
+.enjoy-life-daoh .aa {
     /* line-height: 184px; */
     margin: 67px 0;
 }
@@ -306,23 +345,29 @@
     float: left;
 }
 
-.yxshhuolj {
+.enjoy-life-uolj {
     float: left;
     height: 84px;
     width: 507px;
     margin: 35px 0;
 }
 
-.yxshhuolj .yx {
+.enjoy-life-uolj .yx {
     float: left;
 }
 
-.yxshhuolj .lj {
+.enjoy-life-uolj .lj {
     float: left;
+    font-size: 23px;
+}
+
+.enjoy-life-uolj p {
+    color: #666666;
     font-size: 20px;
 }
 
-.yxshhuolj .lj .iconfont {
+
+.enjoy-life-uolj .lj .iconfont {
 
     font-size: 20px;
 }
@@ -340,7 +385,7 @@
 
 .huaslj img {
     float: left;
-    height: 88px;
+    height: 104px;
     width: 106px;
     margin: 20px 0px;
 }
@@ -390,10 +435,11 @@
     height: 47px;
     width: 184px;
     background-color: #0066b3;
-    margin: 30px 63px;
+    margin: 46px -7px;
     text-align: center;
     line-height: 47px;
     font-size: 20px;
+    color: #fffff3;
 
 }
 
@@ -405,6 +451,7 @@
 .yzghlj p {
     font-size: 21px;
     margin: 30px 0;
+    color: #666666;
 }
 
 /* 左边 */
@@ -444,6 +491,7 @@
     height: 159px;
     text-align: center;
     line-height: 159px;
+    /* clear: ; */
 }
 
 
@@ -483,7 +531,18 @@
 
 .lcpdlj p {
     color: #999999;
+    margin: 10px 0;
 }
+
+.lcpdlj .a {
+    font-size: 24px;
+    width: 400px;
+
+}
+
+
+
+
 
 
 /* 第十二部分 */
@@ -495,88 +554,196 @@
 
 /* 最新公告栏 */
 .zxgglan {
+    position: relative;
+    top: 0;
+    left: 0;
+
     height: 123px;
     line-height: 123px;
     font-size: 34px;
     margin: 10px 0;
-
 }
 
 /* 最新公告介绍 */
 
-.zxgglanjs {
-    height: 287px;
-
-}
-.zxggjs {
-    width: 100%;
-    height: 299px;
+.latest-announcement {
+    height: 283px;
 }
 
-
-.rq .aa {
-    height: 55px;
-    width: 55px;
-    background-color: red;
-}
-
-
-.zxggjs .bb {
-    height: 55px;
-    width: 71px;
+/* 第一部分 */
+.latest-announcement-diyi {
+    height: 207px;
+    width: 419px;
     float: left;
 }
 
-
-
-
-.zxggjs .rq1 span {
-    font-size: 31px;
-}
-
-
-
-.zxggjs .nr {
+.latest-announcement-diyi1 {
     float: left;
-    height: 299px;
-    width: 338px;
-    font-size: 18px;
-line-height: 18px;
+    margin: 0px 92px;
 }
 
-.zxggjs .nr p {
-    color: #667bac;
+.latest-announcement-diyi2 {
+    float: right;
+}
+
+/* 时间 */
+.latest-announcement-rq {
+    height: 58px;
+    width: 58px;
+    float: left;
+
+}
+
+.latest-announcement-rq .aa1 {
+    margin: 0 12px;
+}
+
+.latest-announcement-rq .bb2 {
+    border-top: 2px solid black;
+    font-size: 10px;
 }
 
 
+.latest-announcement-rq span {
+    font-size: 28px;
 
-/* 第十二部分 */
+}
+
+/* 介绍 */
+.content {
+    /* background-color: rgb(42, 235, 235); */
+    width: 361px;
+    height: 288px;
+    float: left;
+}
+
+.content a {
+    font-size: 26px;
+}
+
+
+.content span {
+    font-size: 20px;
+}
+
+
+/* 第十三部分 */
 /* 网站 */
-.wangzhan {
-    height: 75px;
+.website {
+    float: left;
+    height: 76px;
+    width: 100%;
     background-color: #025a9d;
+
 }
 
-.wztp img{
+.Website-link-nr {
+    float: left;
+}
+
+.Website-link-nr .wztp {
+    width: 346px;
+    background-color: tomato;
+    margin: 13px 0;
+}
+
+.wztp img {
     height: 50px;
     width: 141px;
     float: left;
-    /* margin: 0px 7px ; */
+    margin: 0px 7px;
 }
 
-.wztp .pp img  {
-margin: 0 10px;
+.wztp .pp {
+    float: left;
 }
 
 
+.wztp .pp img {
+    margin: 0 25px;
+}
 
-  .wangzhanlj  a {
+.Website-link {
+    height: 75px;
+    width: 1442px;
+
+}
+
+
+.Website-link a {
     color: #1dcfd0;
-    margin: 20px 6px ;
-    font-size: 24px;
+    margin: 20px 12px;
+    font-size: 21px;
     line-height: 55px;
+
 }
- 
 
 
 
+
+/* 第十三部分 */
+/* 底部 */
+
+.bottomlan {
+    height: 242px;
+    width: 100%;
+    background-color: #0066b3;
+    float: left;
+}
+
+
+.bottom {
+    height: 242px;
+    line-height: 46px;
+}
+
+/* 底部 */
+.bottom-lef .img {
+    float: left;
+
+    margin: 84px 0px;
+}
+
+.bottom-lef .img img {
+    height: 47px;
+    width: 35px;
+}
+
+.bottom-lef-right {
+    float: left;
+    margin: 60px 41px;
+}
+
+
+.bottom-lef span {
+    font-size: 20px;
+    color: #ffe7e1;
+}
+
+
+.bottom-right {
+    float: right;
+
+}
+
+
+.bottom-right .ewman {
+    float: right;
+    margin: 55px 26px;
+    height: 128px;
+    width: 105px;
+    background-color: #f1ebeb;
+    text-align: center;
+}
+
+
+.bottom-right .ewman img {
+    height: 90px;
+    width: 91px;
+}
+
+
+.bottom-right .ewman p {
+    font-size: 19px;
+    margin: -23px 0;
+}
