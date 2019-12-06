@@ -155,7 +155,7 @@
 .activate-a-bank-card-z img {
     width: 77px;
     height: 77px;
-    /* margin:0px -12px; */
+    margin:0px -12px;
 }
 
 
@@ -187,110 +187,59 @@
     margin: 4px 0;
 
 
-}
+} 
+
 
 
 /* 第五部分 */
-/* 快易金融 */
-.fast-easy-finance {
+/*小微e家 */
+.e-home {
     height: 112px;
 
 }
 
 
-.fast-easy-finance .aa {
+.e-home .aa {
     height: 50px;
     width: 17px;
     background-color: #c1c1c1;
     float: left;
 }
 
-.fast-easy-finance span {
+.e-home span {
     font-size: 37px;
 }
 
 
 
 
+
 /* 第六部分 */
-/* 办卡 */
-.banka {
-    height: 277px;
+/* 小微e家*/
+.xwyj {
+    height: 600px;
     width: 100%;
+    background-color: #025a9d;
+  
 }
-.bankalj {
-    height: 277px;
+.xwyjlj {
+    height: 600px;
+    background-color: chartreuse;
 }
-
-.bankalj .zb {
-    float: left;
-    height: 277px;
-    width: 300px;
-}
-
-.biaoti  span {
-font-size: 18px;
-}
-
-.biaoti p {
-    margin: 10px 0;
-}
-
-.biaoti .anl {
-    background-color: royalblue;
-    width: 116px;
-    height: 32px;
-    border-radius: 11px;
-}
-
-.biaoti .anl span {
-    margin: 0px 16px ;
-    line-height: 32px;
-}
-
-.zj {
-    float: left;
-    height: 277px;
-    width: 300px;
-    margin: 0 271px ;
-}
-
-
-.biaot {
-    margin: 20px 0;
-
-}
-.biaot  span {
-    font-size: 18px;
-    }
-    .biaot .anl {
-        background-color: royalblue;
-        width: 116px;
-        height: 32px;
-        border-radius: 11px;
-        
-    }
-    .biaot .anl span {
-        margin: 0px 16px ;
-        line-height: 32px;
-    }
-
-.bankalj .yb {
-    float: left;
-    height: 277px;
-    width: 300px;
-
-}
-
-
-
 /* 第七部分 */
-/* 个人客户 */
+/* 推荐产品 */
 
 .Individual-customerslj {
-    height: 200px;
+    height: 159px;
+  background-color: darkorange;
 }
 
+.Individual-customerslj img {
+    float: left;
+    height: 109px;
+    width: 107px;
+    margin: 20px 0px;
+}
 .Individual-customerslj img {
     float: left;
     height: 109px;
@@ -301,7 +250,7 @@ font-size: 18px;
  .Individual-customersu-yb {
     float: left;
     height: 138px;
-    width: 346px;
+    width: 312px;
     line-height: 20px;
     margin: 25px 11px;
 }
@@ -330,21 +279,45 @@ font-size: 18px;
 
 
 
+/* 第八部分 */
+/* 精彩视频 */
+.Wonderful-video {
+    height:874px;
+   
+}
 
+.Wonderful-video .aa {
+    height: 50px;
+    width: 17px;
+    background-color: #c1c1c1;
+    float: left;
+}
 
-/* 八部分 */
+.Wonderful-video span {
+    font-size: 37px;
+    margin: 0px 874px 0px 0px ;
+}
+
+.Wonderful-video .iimg {
+    float: left;
+    height: 226px;
+background-color: darkred;
+}
+
+/* 第九部分 */
 /* 公告信息 */
 .notice {
- 
     float: left;
     height: 352px;
     width: 100%;
+    margin: 77px 0;
 }
 
 /* 公告信息 */
 
 .Notice {
     height: 500px;
+    float: left;
 }
 
 /* 顶部上 */
@@ -409,8 +382,6 @@ width: 580px;
 .XXYB {
     height: 438px;
     width: 407px;
-
-    float: right;
     /* margin: 0 20px ; */
 }
 .XXYB .dinbulj {
@@ -449,7 +420,7 @@ width: 360px;
 }
 
 
-/* 第九部分 */
+/* 第十部分 */
 /* 网站 */
 .website {
     float: left;
