@@ -282,7 +282,7 @@
 /* 第八部分 */
 /* 精彩视频 */
 .Wonderful-video {
-    height:874px;
+    height:320px;
    
 }
 
@@ -383,12 +383,13 @@ width: 580px;
     height: 438px;
     width: 407px;
     /* margin: 0 20px ; */
+    float: left;
 }
 .XXYB .dinbulj {
     height: 44px;
     width: 407px;
     font-size: 20px;
-    
+    float: left;
 }
 
 .dinbulj span {
