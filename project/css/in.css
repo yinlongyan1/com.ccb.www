@@ -58,13 +58,15 @@
 /* 搜索地址 */
 .ssdz {
     float: left;
-    line-height: 123px;
-    height: 20px;
-    width: 149px;
+    position: relative;
+   margin: 48px 21px;
 }
 
-.ssdz span {
-    margin: 30px 0px;
+.ssdz a {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+  
 }
 
 

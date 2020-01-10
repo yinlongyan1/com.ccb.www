@@ -11,7 +11,7 @@
 .top-navigation-link a {
     color: #95e5ff;
     line-height: 50px;
-    font-size: 18px;
+    font-size: 10px;
     margin: 0px 9px;
 }
 
@@ -54,27 +54,23 @@
 /* 搜索地址 */
 .ssdz {
     float: left;
-    line-height: 123px;
-    height: 20px;
-    width: 149px;
+    position: relative;
+   margin: 48px 21px;
 }
 
-.ssdz span {
-    margin: 30px 0px;
+.ssdz a {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+  
 }
 
-
-
-.ssdz input {
-    height: 10px;
-    width: 10px;
-}
 
 /* 字体链接 */
 .economic-construction-lj1 {
     float: right;
     height: 63px;
-    
+
 }
 
 .economic-construction-lj span {
@@ -86,23 +82,24 @@
 /* 第三部分 */
 .Handling-services {
     width: 100%;
-    height:2451px;
+    height: 1805px;
 }
 
 .Handling-services-lj {
     width: 960px;
-    height: 2451px;
-    background-color: rgb(20, 40, 220);
+    height: 1768px;
+    background-color: #c8e9f5;
 }
 
 .Handling-services-lj- {
     width: 921.59px;
-    height: 1725px;
-    background-color: deeppink;
-    margin: 0px 20px ;
+    height: 1047px;
+    background-color: rgb(236, 236, 236);
+    margin: 0px 20px;
 }
 
 .Handling-services-lj- p {
+    text-indent: 2em;
     font-size: 23px;
 }
 
@@ -111,78 +108,86 @@
     height: 38px;
     background-color: #12629c;
     line-height: 38px;
-    margin: 29px  10px ;
+    margin: 29px 10px;
 }
 
 .aa span {
-    margin: 0 10px ;
+    margin: 0 10px;
     font-size: 20px;
     color: ghostwhite;
 
 }
 
+.mmm {
+    height: 80px;
+}
+
+.mmm .kkk {
+    height: 30px;
+    line-height: 30px;
+}
+
+.kkk img {
+    width: 20px;
+    height: 20px;
+    margin: -5px 10px;
+}
+
+.kkk span {
+    margin: 10px 0px;
+}
+
+.kk .ff {
+    margin: 16px 0px;
+}
+
+
+
 
 /* 第四部分 */
 
+.ywld {
+    font-size: 18px;
+    margin: 0 62px;
+}
 
 
+.ab {
+    width: 162px;
+    height: 38px;
+    background-color: #12629c;
+    line-height: 38px;
+    margin: 29px 10px;
+}
+
+.ab span {
+    margin: 0 10px;
+    font-size: 20px;
+    color: ghostwhite;
+
+}
+
+.tab {
+    overflow: hidden;
+    background-color: #eeeeee;
+}
+
+.tab a {
+    display: block;
+    width: 85.7px;
+    padding: 10px 12.2px;
+    float: left;
+    text-decoration: none;
+    color: #666;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.pp img {
+    margin: 39px 29px;
+}
 
 /* 第五部分 */
 /* 网站 */
@@ -229,8 +234,8 @@
 
 .Website-link a {
     color: #1dcfd0;
-    margin: 20px 12px;
-    font-size: 21px;
+    margin: 20px 3px;
+    font-size: 13px;
     line-height: 55px;
 
 }
@@ -242,6 +247,7 @@
 /* 底部 */
 
 .bottomlan {
+    position: relative;
     height: 242px;
     width: 100%;
     background-color: #0066b3;
@@ -251,7 +257,9 @@
 
 .bottom {
     height: 242px;
+    width: 803px;
     line-height: 46px;
+    float: left;
 }
 
 /* 底部 */
@@ -268,12 +276,12 @@
 
 .bottom-lef-right {
     float: left;
-    margin: 60px 41px;
+    margin: 17px 17px;
 }
 
 
 .bottom-lef span {
-    font-size: 20px;
+    font-size: 13px;
     color: #ffe7e1;
 }
 
@@ -286,21 +294,21 @@
 
 .bottom-right .ewman {
     float: right;
-    margin: 55px 26px;
-    height: 128px;
-    width: 105px;
+    margin: 62px 8px;
+    height: 99px;
+    width: 80px;
     background-color: #f1ebeb;
     text-align: center;
 }
 
 
 .bottom-right .ewman img {
-    height: 90px;
-    width: 91px;
+    height: 70px;
+    width: 70px;
 }
 
 
 .bottom-right .ewman p {
-    font-size: 19px;
-    margin: -23px 0;
+    font-size: 12px;
+    margin: -28px 0;
 }

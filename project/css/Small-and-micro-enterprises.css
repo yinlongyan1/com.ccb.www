@@ -58,21 +58,17 @@
 /* 搜索地址 */
 .ssdz {
     float: left;
-    line-height: 123px;
-    height: 20px;
-    width: 149px;
+    position: relative;
+   margin: 48px 21px;
 }
 
-.ssdz span {
-    margin: 30px 0px;
+.ssdz a {
+    position: absolute;
+    top: 7px;
+    left: 8px;
+  
 }
 
-
-
-.ssdz input {
-    height: 10px;
-    width: 10px;
-}
 
 /* 字体链接 */
 .economic-construction-lj1 {
@@ -82,7 +78,7 @@
 .economic-construction-lj span {
     line-height: 123px;
     font-size: 20px;
-    margin: 0px 20px;
+    margin: 0px 82px;
 }
 
 
@@ -217,21 +213,116 @@
 /* 第六部分 */
 /* 小微e家*/
 .xwyj {
-    height: 600px;
+    height: 450px;
     width: 100%;
-    background-color: #025a9d;
   
 }
 .xwyjlj {
-    height: 600px;
-    background-color: chartreuse;
+    height: 550px;
 }
+
+
+.xwyjlj .content-link-1 {
+    float: left;
+    width: 500px;
+    height: 450px;
+}
+
+.content-link-1 ul {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.content-link-1 a {
+    margin: 10px 30px ;
+    font-size: 22px;
+    /* color: #fff; */
+}
+
+
+.content-link-1 .aax {
+    width: 156px;
+    height: 48px;
+    background-color: #0065b0;;
+    text-align: center;
+    font-size: 25px;
+    line-height: 48px;
+    border-radius: 11px;
+    margin: 50px 0px ;
+    color: #fff;
+}
+
+
+
+
+.xwyjlj .content-link-2 {
+    float: left;
+    width: 435px;
+    height: 450px;
+}
+
+.content-link-2 ul {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.content-link-2 a {
+    margin: 10px 27px ;
+    font-size: 22px;
+}
+
+.content-link-2 .vv {
+    margin: 30px 0px ;
+}
+
+.content-link-2 span {
+    margin: 10px 10px ;
+    font-size: 20px;
+color: #0e5993;
+}
+
+
+
+.xwyjlj .content-link-3 {
+    float: left;
+    width: 500px;
+    height: 450px;
+}
+
+.content-link-3 ul {
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.content-link-3 a {
+    margin: 10px 45px ;
+    font-size: 22px;
+}
+
+
+.content-link-3 .aax {
+    width: 156px;
+    height: 48px;
+    background-color: #0065b0;;
+    text-align: center;
+    font-size: 25px;
+    line-height: 48px;
+    border-radius: 11px;
+    margin: 50px 0px ;
+    color: #fff;
+}
+
+
+
+
+
+
 /* 第七部分 */
 /* 推荐产品 */
 
 .Individual-customerslj {
     height: 159px;
-  background-color: darkorange;
+background-color: mintcream;
 }
 
 .Individual-customerslj img {
@@ -282,7 +373,7 @@
 /* 第八部分 */
 /* 精彩视频 */
 .Wonderful-video {
-    height:320px;
+    height:96px;
    
 }
 
@@ -301,7 +392,6 @@
 .Wonderful-video .iimg {
     float: left;
     height: 226px;
-background-color: darkred;
 }
 
 /* 第九部分 */
@@ -310,13 +400,13 @@ background-color: darkred;
     float: left;
     height: 352px;
     width: 100%;
-    margin: 77px 0;
+    margin: 24px 0;
 }
 
 /* 公告信息 */
 
 .Notice {
-    height: 500px;
+    height: 300px;
     float: left;
 }
 
@@ -337,7 +427,7 @@ background-color: darkred;
 
 /* 顶部上 */
 .XXZB {
-    height: 438px;
+    height: 300px;
     width: 580px;
     float: left;
 }
@@ -355,7 +445,7 @@ background-color: darkred;
 /* 信息左边 */
 .xxzb {
 float: left;
-height: 395px;
+height: 355px;
 width: 580px;
 }
 
@@ -368,7 +458,7 @@ width: 580px;
 }
 
 .xxzblj li {
-    float: left;
+    float: right;
     font-size: 15px;
 }
 
@@ -380,10 +470,10 @@ width: 580px;
 /* 信息右边 */
 
 .XXYB {
-    height: 438px;
+    height: 325px;
     width: 407px;
-    /* margin: 0 20px ; */
-    float: left;
+    margin: 51px 181px ;
+    float: right;
 }
 .XXYB .dinbulj {
     height: 44px;
@@ -398,7 +488,7 @@ width: 580px;
 }
 .xxyb {
 float: right;
-height: 395px;
+height: 200px;
 width: 360px;
 }
 
